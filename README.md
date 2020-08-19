@@ -5,5 +5,5 @@
 - 🌍 Research interests: Natural Language Processing, Health, Econometrics
 - 📫 How to reach me: Email or Twitter
 - 😄 Pronouns: She/Hers
-- ⚡ Fun fact: Learning Korean
+
 
