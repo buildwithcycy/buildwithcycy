@@ -5,7 +5,7 @@ I’m a published Computer Science graduate with a strong interest in **data ana
 Recent News:
 In November 2025, together with my team, we won the first prize at a Quantum AI hackathon organized by MILA, Quebec Institute of Artificial Intelligence.
 
-I moved to the United States from **Burundi (East Africa) ** to pursue my education in Computer Science. My academic journey began at **Cypress College**, where I earned two associate degrees in **Mathematics** and **Physics**. I later transferred to **California State University**, where I completed my **Bachelor of Science in Computer Science**.
+I moved to the United States from **Burundi (East Africa)** to pursue my education in Computer Science. My academic journey began at **Cypress College**, where I earned two associate degrees in **Mathematics** and **Physics**. I later transferred to **California State University**, where I completed my **Bachelor of Science in Computer Science**.
 
 After graduating, I worked remotely in 2020 and discovered a growing interest in **data analysis and extracting insights from data**. This led me to pursue a **Master’s degree in Business Analytics** at **Grand Canyon University** in sunny Arizona. Through my studies, I developed a strong passion for **data analytics, business problem-solving, volunteering, and healthcare-related applications of technology**.
 
