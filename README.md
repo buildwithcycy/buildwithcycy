@@ -34,7 +34,6 @@ I currently reside in **Canada** and, fueled by my passion for travel, I hope to
 ---
 
 ## 📫 Let’s Connect
-
-- GitHub: https://github.com/buildwithcycy   
+- **LinkedIn:** [Cynthia Habonimana](https://www.linkedin.com/in/cynthia-habonimana/)  
 
 ⭐ Thanks for stopping by — feel free to explore my projects!
